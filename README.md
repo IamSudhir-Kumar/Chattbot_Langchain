@@ -29,4 +29,4 @@ The Professional Career Chatbot is a conversational AI assistant built using Lan
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/professional-career-chatbot.git
+   git clone https://github.com/IamSudhir-Kumar/Chattbot_Langchain.git
