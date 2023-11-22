@@ -1,4 +1,6 @@
-import { RecursiveCharacterTextSplitter } from './node_modules/langchain/text_splitter'
+import { OpenAI } from "langchain/llms/openai"
+
+import { RecursiveCharacterTextSplitter } from 'langchain/text_splitter'
 
 try {
   const result = await fetch('myinfo.txt')

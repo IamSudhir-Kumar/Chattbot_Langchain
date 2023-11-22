@@ -2,5 +2,17 @@
   "dependencies": {
     "@supabase/supabase-js": "^2.38.4",
     "langchain": "^0.0.181"
-  }
+  },
+  "name": "chattbot_langchain",
+  "description": "![Chatbot Preview](chatbot-preview.png)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "keywords": []
 }
